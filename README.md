@@ -1,4 +1,4 @@
-# Website Diff with Push Notifications Via Prowl
+# Website Diff with iOS Push Notifications Via Prowl
 This bash script monitors a webpage for changes.  When changes are found, it sends a push notification via Prowl and archives the new version of the web page.  This is a simple script that downloads the url, peforms a diff and reports on any changes.
 
 # Installation
